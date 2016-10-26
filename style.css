@@ -1,0 +1,35 @@
+article {
+  border: 1px solid black;
+  width : 40%;
+  margin-left :6%;
+  margin-top: 7%;
+  display: inline-block;
+  position:relative;
+  box-sizing: border-box;
+  padding: 1%;
+
+}
+img {
+  height:50%;
+  width: 50%;
+  /*margin-left: 15%;*/
+  /*margin-top: 15%;*/
+  float:left;
+}
+button {
+  position: absolute;
+  right:0;
+  top:0;
+
+}
+p {
+  text-align: justify;
+  box-sizing: border-box;
+  padding: 1%;
+}
+ a {
+  text-align: right;
+}
+a:hover{
+  font-size: 20px;
+}
